@@ -1,4 +1,15 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Stack+Sans+Text:wght@200..700&display=swap');
 body{
   background: #161718;
+  padding: 20px 0px;
+  color: white;
+  font-family: "Rubik",sans-serif;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+  text-decoration-color: white;
 }
